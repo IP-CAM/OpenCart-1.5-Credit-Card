@@ -1,7 +1,7 @@
 # OpenCart-1.5-Credit-Card
 PayTabs plugin for OpenCart (1.5.x)+
 
-This is a Payfort Payment Gateway Extension for Opencart 1.5.x
+This is a PayTabs Payment Gateway Extension for Opencart 1.5.x
 
 Installation
 
